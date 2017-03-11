@@ -15,10 +15,15 @@ hivenseek is a bash script(compiled with shc Version 3.8.7) that performs passiv
 
 # INSTALLATION and USAGE
 Download the executable
-
+```bash
+wget https://github.com/Codzart/hivenseek/raw/master/hivenseek
+chmod 550 hivenseek
 hivenseek Usage: hivenseek [-auto] 
 
-Without arguments, an expository prompt is printed, requesting permission to proceed.
+./hivenseek 
+```
+
+Without arguments, an explanatory prompt is printed, requesting permission to proceed.
 
 With the *-auto* option, no prompt is given and the scan begins immediately.
 
