@@ -18,7 +18,16 @@ Download the executable
 ```bash
 wget https://github.com/Codzart/hivenseek/raw/master/hivenseek
 chmod 550 hivenseek
-hivenseek Usage: hivenseek [-auto] 
+```
+
+Verify the executable
+```bash
+sha256sum hivenseek 
+28b83a9a147aeab25b5dd1d7eeacc9fce77c07693e4679ec7287e505f38c8b83  hivenseek
+```
+Run the executable
+```bash
+# hivenseek Usage: hivenseek [-auto] 
 
 ./hivenseek 
 ```
