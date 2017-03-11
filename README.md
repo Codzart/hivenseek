@@ -23,7 +23,7 @@ chmod 550 hivenseek
 Verify the executable
 ```bash
 sha256sum hivenseek 
-28b83a9a147aeab25b5dd1d7eeacc9fce77c07693e4679ec7287e505f38c8b83  hivenseek
+28b83a9a147aeab25b5dd1d7eeacc9fce77c07693e4679ec7287e505f38c8b83  hivenseek (v2017.3.11)
 ```
 Run the executable
 ```bash
