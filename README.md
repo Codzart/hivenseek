@@ -24,6 +24,7 @@ Verify the executable
 ```bash
 sha256sum hivenseek 
 28b83a9a147aeab25b5dd1d7eeacc9fce77c07693e4679ec7287e505f38c8b83  hivenseek (v2017.3.11)
+38ea5b616d7e02b5fb4a958bb584040184216a0d8206d9cfc2a2abf39cb30861  hivenseek (v2017.3.12)
 ```
 Run the executable
 ```bash
@@ -42,6 +43,9 @@ With the *-auto* option, no prompt is given and the scan begins immediately.
 hivenseek can be called from most common automation systems.
 
 No SIEM or syslogging formats are planned for the first version.
+
+# REPORTING
+hivenseek provides the option to anonymously report the result of the scan (active/abandoned/absent,time,address)
 
 # DONATIONS
 This small tool is happily placed in the public domain, but the author welcomes donations.
