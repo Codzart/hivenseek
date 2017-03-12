@@ -24,7 +24,7 @@ Verify the executable
 ```bash
 sha256sum hivenseek 
 28b83a9a147aeab25b5dd1d7eeacc9fce77c07693e4679ec7287e505f38c8b83  hivenseek (v2017.3.11)
-38ea5b616d7e02b5fb4a958bb584040184216a0d8206d9cfc2a2abf39cb30861  hivenseek (v2017.3.12)
+662dead8d266ed6e011ac1c56afe8a29b5b6c336efac321f96a2406bb053caeb  hivenseek (v2017.3.12)
 ```
 Run the executable
 ```bash
