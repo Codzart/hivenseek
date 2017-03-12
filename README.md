@@ -11,7 +11,8 @@ This lightweight tool, 'hivenseek' was constructed to look for these signs on \*
 
 
 # OVERVIEW
-hivenseek is a bash script(compiled with shc Version 3.8.7) that performs passive read-only operations. It is intended to run without modification on a variety of Linux-based systems.   The underlying bash code is embedded in the executable, but discoverable on a running system.  It may be released here in coming months for adaptation to other systems.
+hivenseek is a bash script(compiled with shc Version 3.8.7) that performs passive read-only operations. It is intended to run without modification on a variety of Linux-based systems.   The underlying bash code is shrouded in the executable, but is discoverable on a running system in the process title if you care to review it.  It may be released here in coming months for adaptation to other systems.
+The expiry date is currently 2018MAR15.  By then, I hope this will no longer be of any interest to anyone.
 
 # INSTALLATION and USAGE
 Download the executable
@@ -24,7 +25,7 @@ Verify the executable
 ```bash
 sha256sum hivenseek 
 28b83a9a147aeab25b5dd1d7eeacc9fce77c07693e4679ec7287e505f38c8b83  hivenseek (v2017.3.11)
-662dead8d266ed6e011ac1c56afe8a29b5b6c336efac321f96a2406bb053caeb  hivenseek (v2017.3.12)
+86661c0104c1d0e96a05e4ccc86760aa4b7968ef172661778b1578ff4ff9e36c  hivenseek (v2017.3.12)
 ```
 Run the executable
 ```bash
